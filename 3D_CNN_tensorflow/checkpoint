@@ -1,0 +1,6 @@
+model_checkpoint_path: "velodyne_10th_try_100.ckpt"
+all_model_checkpoint_paths: "velodyne_10th_try_60.ckpt"
+all_model_checkpoint_paths: "velodyne_10th_try_70.ckpt"
+all_model_checkpoint_paths: "velodyne_10th_try_80.ckpt"
+all_model_checkpoint_paths: "velodyne_10th_try_90.ckpt"
+all_model_checkpoint_paths: "velodyne_10th_try_100.ckpt"
